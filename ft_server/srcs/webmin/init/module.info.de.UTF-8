@@ -1,0 +1,2 @@
+desc_de.UTF-8=System-Start und -Stop
+longdesc_de.UTF-8=Setup-Skripte, die beim Booten von /etc/init.d oder /etc/rc.local ausgef&#252;hrt werden.

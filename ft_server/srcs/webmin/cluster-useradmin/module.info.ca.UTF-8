@@ -1,0 +1,2 @@
+longdesc_ca.UTF-8=Crea, actualitza i suprimeix usuaris i grups a través de múltiples servidors. Contràriament a NIS, cada servidor té els seus propis fitxers de contrasenyes i grups, que s'actualitzen remotament amb aquest mòdul.
+desc_ca.UTF-8=Usuaris i Grups de Clúster

@@ -1,0 +1,7 @@
+os_support=hpux
+version=1.941
+longdesc=Edit file shares as defined in the HPUX /etc/exports file.
+desc=NFS Exports
+name=Export Manager
+category=net
+depends=1.941

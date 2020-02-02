@@ -1,0 +1,7 @@
+os_support=freebsd openbsd macos netbsd openserver
+version=1.941
+longdesc=Edit file shares from the FreeBSD /etc/exports file.
+desc=NFS Exports
+name=BSDexports
+category=net
+depends=1.941

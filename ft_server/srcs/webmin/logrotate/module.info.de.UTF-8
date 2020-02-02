@@ -1,0 +1,2 @@
+desc_de.UTF-8=Logdatei-Rotation
+longdesc_de.UTF-8=Richtet die automatische Rotation von Apache, Squid, Syslog und andere Log-Dateien ein.

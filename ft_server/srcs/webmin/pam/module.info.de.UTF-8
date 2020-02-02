@@ -1,0 +1,2 @@
+desc_de.UTF-8=PAM-Authentifizierung
+longdesc_de.UTF-8=Konfiguriert die PAM-Authentifizierungs-Schritte, welche durch Dienste wie Telnet, POP und FTP benutzt werden.

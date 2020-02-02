@@ -1,0 +1,10 @@
+webmincron=1
+proc=1
+cron=0
+webminlog=1
+acl=1
+man=1
+system-status=1
+webmin=1
+servers=1
+init=1

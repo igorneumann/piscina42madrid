@@ -1,0 +1,5 @@
+readonly=1
+version=1.941
+longdesc=Login to your system with SSH or telnet.
+desc=SSH Login
+depends=1.941

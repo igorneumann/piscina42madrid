@@ -1,0 +1,16 @@
+inittab_id=id
+init_base=/etc/
+init_info=1
+sort_mode=0
+desc=1
+no_chkconfig=0
+shutdown_command=poweroff
+reboot_command=reboot
+status_check=0
+soft_links=1
+order_digits=2
+boot_levels=2 3 5
+init_dir=/etc/init.d
+order=0
+expert=0
+show_opts=0
